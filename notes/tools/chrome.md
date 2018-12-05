@@ -12,4 +12,4 @@
 -   介绍
     它可以分析我们页面中各个组件的性能情况，从而在其基础上我们可以有针对性的对组件的代码进行优化
 -   界面
-    ![Vue Performance Devtool](https://raw.githubusercontent.com/Believel/MarkdownPhotos/master/chrome/performace.png.png)
+    ![Vue Performance Devtool](https://raw.githubusercontent.com/Believel/MarkdownPhotos/master/chrome/performace.png)
